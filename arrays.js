@@ -29,3 +29,7 @@ function destructivelyRemoveElementFromBeginningOfArray(array, element){
   array.shift()
   return array
 }
+
+function removeElementFromEndOfArray(array, element){
+  return 
+}
